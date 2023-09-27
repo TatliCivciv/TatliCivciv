@@ -4,4 +4,4 @@
 
 <h1 align="center"> My Discord Acc </h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/966692929840242748)](https://discord.com/users/966692929840242748)
+[![Discord Presence](https://lanyard.cnrad.dev/api/455854603867521036)](https://discord.com/users/455854603867521036)
